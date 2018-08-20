@@ -1,2 +1,2 @@
-# KaliControl
+# Kalicontrol
 for Kali Linux tools
